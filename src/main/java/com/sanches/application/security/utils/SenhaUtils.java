@@ -1,4 +1,4 @@
-package com.sanches.security.utils;
+package com.sanches.application.security.utils;
 
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
